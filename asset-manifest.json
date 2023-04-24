@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/iptv-m3u-viewer/static/css/main.d2fad373.chunk.css",
-    "main.js": "/iptv-m3u-viewer/static/js/main.a3a7ea65.chunk.js",
-    "main.js.map": "/iptv-m3u-viewer/static/js/main.a3a7ea65.chunk.js.map",
+    "main.css": "/iptv-m3u-viewer/static/css/main.559c7d4e.chunk.css",
+    "main.js": "/iptv-m3u-viewer/static/js/main.f3bee697.chunk.js",
+    "main.js.map": "/iptv-m3u-viewer/static/js/main.f3bee697.chunk.js.map",
     "runtime-main.js": "/iptv-m3u-viewer/static/js/runtime-main.4e374541.js",
     "runtime-main.js.map": "/iptv-m3u-viewer/static/js/runtime-main.4e374541.js.map",
-    "static/js/2.9530cff0.chunk.js": "/iptv-m3u-viewer/static/js/2.9530cff0.chunk.js",
-    "static/js/2.9530cff0.chunk.js.map": "/iptv-m3u-viewer/static/js/2.9530cff0.chunk.js.map",
+    "static/js/2.5e56c1f4.chunk.js": "/iptv-m3u-viewer/static/js/2.5e56c1f4.chunk.js",
+    "static/js/2.5e56c1f4.chunk.js.map": "/iptv-m3u-viewer/static/js/2.5e56c1f4.chunk.js.map",
     "index.html": "/iptv-m3u-viewer/index.html",
-    "static/css/main.d2fad373.chunk.css.map": "/iptv-m3u-viewer/static/css/main.d2fad373.chunk.css.map",
-    "static/js/2.9530cff0.chunk.js.LICENSE.txt": "/iptv-m3u-viewer/static/js/2.9530cff0.chunk.js.LICENSE.txt"
+    "static/css/main.559c7d4e.chunk.css.map": "/iptv-m3u-viewer/static/css/main.559c7d4e.chunk.css.map",
+    "static/js/2.5e56c1f4.chunk.js.LICENSE.txt": "/iptv-m3u-viewer/static/js/2.5e56c1f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4e374541.js",
-    "static/js/2.9530cff0.chunk.js",
-    "static/css/main.d2fad373.chunk.css",
-    "static/js/main.a3a7ea65.chunk.js"
+    "static/js/2.5e56c1f4.chunk.js",
+    "static/css/main.559c7d4e.chunk.css",
+    "static/js/main.f3bee697.chunk.js"
   ]
 }
