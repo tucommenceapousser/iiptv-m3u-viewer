@@ -1,5 +1,5 @@
 # IPTV M3U Viewer
-[Demo](https://noerls.github.io/iptv-m3u-viewer)
+[Demo](https://tucommenceapousser.github.io/iptv-m3u-viewer)
 
 Website that parse your IPTV file (M3U) to provide a nice interface to search a channel. Your files are stored locally in the browser storage.
 
@@ -7,7 +7,7 @@ Click on the channel of your choice and paste the url on your streaming app.
 
 ![Main Page](./images/main-page.png)
 
-A demo is available [here](https://noerls.github.io/iptv-m3u-viewer). You can find a list of publicly available IPTV channels [here](https://github.com/iptv-org/iptv).
+A demo is available [here](https://tucommenceapousser.github.io/). You can find a list of publicly available IPTV channels [here](https://github.com/tucommenceapousser/iptv).
 
 # Installation
 
